@@ -11,6 +11,7 @@ var addTasksOnStories = require('./add_tasks_on_stories.js')
 var setSprintDates    = require('./set_sprint_dates.js')
 var setTasksDates     = require('./set_tasks_dates.js')
 var toProjectFormat   = require('./to_project_format.js')
+var addSprintsOnData  = require('./add_sprints_on_data.js')
 
 
 
@@ -34,7 +35,8 @@ extractFile(function (extractedFiles) {
 	var data = sortStories(extractedFiles.stories)
 
 	setTasksDates(extractedFiles)
-	addTasksOnStories(data, extractedFiles.tasks);
+	addTasksOnStories(data, extractedFiles.tasks)
+	addSprintsOnData(extractedFiles.sprint, data)
 
 	toProjectFormat(data)
 

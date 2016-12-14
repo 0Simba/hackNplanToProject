@@ -31,8 +31,9 @@ function extractChildsIndexElements (sorted, stories) {
         var parentStoryIndex = getParentStoryIndex(sorted, storyParentId);
 
         if (parentStoryIndex !== -1) {
-            story.hierarchy = sorted[parentStoryIndex].hierarchy + 1
-            story.type      = 'story'
+            story.hierarchy    = sorted[parentStoryIndex].hierarchy + 1
+            story.type         = 'story'
+            story.sprintNumber = 0
             sorted.splice(parentStoryIndex + 1, 0, story)
             stories.splice(i, 1)
         }

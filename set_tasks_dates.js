@@ -1,4 +1,7 @@
 
+var utils = require('./utils.js');
+
+
 function setTasksDates (data) {
 	var tasks   = data.tasks
 	var sprints = data.sprint
@@ -15,16 +18,18 @@ function addTaskDates (task, sprints) {
 	var sprint   = getSprint(sprintId, sprints)
 
 
+	var startDate = '';
+
 	if (sprint) {
-		task.startDate    = dateToddmmyyyy(new Date(sprint.startDate))
-		task.endDate      = ''
 		task.sprintNumber = sprint.sprintNumber
+		startDate         = sprint.startDate
 	}
 	else {
-		task.startDate    = ''
-		task.endDate      = ''
 		task.sprintNumber = 0
+		startDate         = sprints[0].startDate
 	}
+
+	task.startDate = utils.dateToddmmyyyy(new Date(startDate))
 }
 
 
@@ -39,18 +44,6 @@ function getSprint (id, sprints) {
 
 	return null
 }
-
-
-function dateToddmmyyyy (date) {
-  var mm = date.getMonth() + 1; // getMonth() is zero-based
-  var dd = date.getDate();
-
-  return [
-		(dd>9 ? '' : '0') + dd,
-		(mm>9 ? '' : '0') + mm,
-		date.getFullYear()
-	].join('/');
-};
 
 
 
