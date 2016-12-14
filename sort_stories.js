@@ -56,7 +56,7 @@ function extractRootElements (sorted, stories) {
         var story = stories[i]
 
         if (story.parentId === -1) {
-            story.hierarchy = 0;
+            story.hierarchy = 1;
             story.type      = 'story'
             sorted.push(story)
             stories.splice(i, 1)

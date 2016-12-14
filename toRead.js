@@ -4,10 +4,11 @@ module.exports = [
         path   : "./data/coopsacr/tasks.csv",
         config : {
             extractKeys : {
-                "TaskId"      : {name : "id",          default : 0},
-                "Title"       : {name : "name",        default : "-"},
-                "Description" : {name : "description", default : "-"},
-                "MilestoneId" : {name : "id",          default : 0}
+                "TaskId"          : {name : "id",          default : 0},
+                "DesignElementId" : {name : "parentId",          default : 0},
+                "Title"           : {name : "name",        default : "-"},
+                "Description"     : {name : "description", default : "-"},
+                "MilestoneId"     : {name : "sprintId",    default : -1}
             }
         }
     }, {
@@ -19,6 +20,16 @@ module.exports = [
                 "DesignElementId"       : {name : "id",          default : -1},
                 "Name"                  : {name : "name",        default : "-"},
                 "Description"           : {name : "description", default : "-"}
+            }
+        }
+    }, {
+        name   : "sprint",
+        path   : "./data/coopsacr/milestones.csv",
+        config : {
+            extractKeys : {
+                "MilestoneId" : {name : "sprintId"},
+                "Name"        : {name : "name"},
+                "DueDate"     : {name : "endDate"}
             }
         }
     }
