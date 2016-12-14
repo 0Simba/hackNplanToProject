@@ -56,7 +56,8 @@ function extractKeys (config, object) {
     var extracted = {}
 
     for (var key in config.extractKeys) {
-        extracted[key] = object[key] || config.extractKeys[key].default
+        var name = config.extractKeys[key].name;
+        extracted[name] = object[key] || config.extractKeys[key].default
     }
 
     return extracted
