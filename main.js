@@ -10,6 +10,7 @@ var convertToCsv      = require('./convert_to_csv.js')
 var addTasksOnStories = require('./add_tasks_on_stories.js')
 var setSprintDates    = require('./set_sprint_dates.js')
 var setTasksDates     = require('./set_tasks_dates.js')
+var toProjectFormat   = require('./to_project_format.js')
 
 
 
@@ -19,7 +20,10 @@ var setTasksDates     = require('./set_tasks_dates.js')
 =            Execution            =
 =================================*/
 
-var toCsvConfig = ['id', 'parentId', 'type', 'name', 'description', 'startDate', 'endDate', 'hierarchy']
+var toCsvConfig = {
+	keys : ['number', 'active', 'mode',       'type', 'name', 'description', 'startDate', 'endDate', 'cost', 'hierarchy', 'sprintNumber'],
+	name : ['N°',     'Actif',  'Mode Tâche', 'Genre', 'Nom',  'Description', 'Début',     'Fin', 'Durée',     'Niveau hiérarchique', 'Sprint Number']
+}
 
 console.log("extracting start");
 
@@ -32,7 +36,11 @@ extractFile(function (extractedFiles) {
 	setTasksDates(extractedFiles)
 	addTasksOnStories(data, extractedFiles.tasks);
 
-    write(convertToCsv(data, toCsvConfig))
+	toProjectFormat(data)
+
+	var csv = convertToCsv(data, toCsvConfig)
+
+    write(csv)
 
     console.log("extracting ended")
 });

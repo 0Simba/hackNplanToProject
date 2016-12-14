@@ -4,11 +4,13 @@ module.exports = [
         path   : "./data/coopsacr/tasks.csv",
         config : {
             extractKeys : {
-                "TaskId"          : {name : "id",          default : 0},
-                "DesignElementId" : {name : "parentId",          default : 0},
-                "Title"           : {name : "name",        default : "-"},
-                "Description"     : {name : "description", default : "-"},
-                "MilestoneId"     : {name : "sprintId",    default : -1}
+                "TaskId"          : {name : "id",            default : 0},
+                "DesignElementId" : {name : "parentId",      default : 0},
+                "Title"           : {name : "name",          default : "-"},
+                "Description"     : {name : "description",   default : "-"},
+                "MilestoneId"     : {name : "sprintId",      default : -1},
+                "EstimatedCost"   : {name : "estimatedCost", default : 0},
+                "FinalCost"       : {name : "finalCost",     default : 0}
             }
         }
     }, {

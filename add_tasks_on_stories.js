@@ -15,6 +15,12 @@ function addTaskOnStories (stories, task) {
 
 
 	task.type = 'task'
+	task.cost = Math.max(task.estimatedCost, task.finalCost)
+
+	task.cost = Math.round(task.cost / 7 * 100) / 100
+	task.cost += (task.cost > 1) ? ' jours' : ' jour'
+	task.cost.replace('.', ',')
+
 
 	if (parentStoryIndex !== null) {
 		task.hierarchy = stories[parentStoryIndex].hierarchy + 1

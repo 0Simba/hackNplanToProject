@@ -2,7 +2,7 @@
 var separator = ';'
 
 function exportToCsv (arrayObject, config) {
-	var csv = config.join(separator);
+	var csv = config.name.join(separator);
 
 	for (var i = 0; i < arrayObject.length; i++) {
 		var data = arrayObject[i]
@@ -11,8 +11,8 @@ function exportToCsv (arrayObject, config) {
 
 
 		var elements = [];
-		for (var j = 0; j < config.length; j++) {
-			var key = config[j]
+		for (var j = 0; j < config.keys.length; j++) {
+			var key = config.keys[j]
 
 			elements.push(data[key]);
 		}

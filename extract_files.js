@@ -30,6 +30,7 @@ function extract (path, config, callback) {
     var converter = new Converter({})
 
     converter.on("end_parsed", function (jsonArray) {
+        console.log(jsonArray)
         extractObject(jsonArray, config, callback);
     })
 
