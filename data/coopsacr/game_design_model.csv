@@ -1,0 +1,69 @@
+﻿ProjectId,DesignElementId,ElementTypeId,ParentDesignElementId,Name,Description,CreationDate,UpdateDate
+15621,2,18,33,Sacrifice du joueur [100 - 93],"En tant que joueur, je souhaite pouvoir effectuer des sacrifices, afin d'avoir une expérience de jeu original",10/19/2016 8:36:40 PM,12/12/2016 11:22:51 AM
+15621,3,18,2,Sacrifier un oeil [13],"En tant que joueur, je souhaite pouvoir sacrifier mes yeux, afin de résoudre des situations qui l'exige",10/19/2016 8:39:24 PM,12/12/2016 11:22:51 AM
+15621,5,18,33,Déplacement [40 - 48],"En tant que joueur, je souhaite pouvoir me déplacer, afin d'évoluer dans le monde",10/20/2016 8:24:56 PM,12/12/2016 11:22:51 AM
+15621,8,20,5,Mapping clavier [8],"En tant que joueur, je souhaite pouvoir jouer au clavier, afin de ne pas être obligé de posséder une manette",10/20/2016 8:35:01 PM,12/12/2016 11:22:51 AM
+15621,9,18,5,Mapping manette [8],"En tant que joueur, je souhaite pouvoir jouer à la manette, afin d'avoir une prise en main plus simple",10/20/2016 8:36:03 PM,12/12/2016 11:22:51 AM
+15621,10,18,2,Sacrifier une jambe [20],"En tant que joueur, je souhaite pouvoir sacrifier mes jambes, afin de résoudre des situations qui l'exige",10/21/2016 7:44:15 AM,12/12/2016 11:22:51 AM
+15621,13,18,2,Sacrifier un bras [60],"En tant que joueur, je souhaite pouvoir sacrifier mes bras, afin de résoudre des situations qui l'exige",10/21/2016 7:47:33 AM,12/12/2016 11:22:51 AM
+15621,22,18,44,Main camera,"En tant que je joueur, je souhaite une caméra third person, afin de pouvoir voir les effets des sacrifices directement sur mon avatar.",10/21/2016 8:05:45 AM,12/12/2016 11:22:52 AM
+15621,24,18,44,Caméra de visée,"En tant que joueur, je souhaite une caméra plus proche du joueur lorsque je vise, afin d'augmenter ma précision.",10/21/2016 8:21:14 AM,12/12/2016 11:22:52 AM
+15621,27,20,35,Hordes d'ennemies [13],"En tant que joueur, je souhaite être attaqué par des hordes d'ennemies, afin d'avoir une expérience de jeu plus intense",10/21/2016 11:51:04 PM,12/12/2016 11:22:50 AM
+15621,28,18,29,Tirer,"En tant que joueur, je souhaite pouvoir tirer sur mes ennemies, afin de les abattre et finir le jeu",10/21/2016 11:52:16 PM,12/12/2016 11:22:51 AM
+15621,29,18,76,Attaque distance [20],"En tant que joueur, je souhaite avoir plusieurs armes, afin d'adapter ma stratégie et varier mon expérience de jeu.",10/21/2016 11:54:13 PM,12/12/2016 11:22:51 AM
+15621,30,18,89,Milestone concept,"En tant que client, je souhaite recevoir une milestone concept, afin de savoir si le projet est viable ou non",10/24/2016 6:36:33 PM,12/12/2016 11:22:49 AM
+15621,31,18,30,Livrables,,10/24/2016 6:37:43 PM,12/12/2016 11:22:50 AM
+15621,32,18,30,Presentation,,10/24/2016 6:41:13 PM,12/12/2016 11:22:50 AM
+15621,33,18,,Héros [201],"En tant que joueur, je souhaite avoir un personnage armé et éduqué aux arts militaires, afin de remplir mes objectifs",10/30/2016 5:05:47 PM,12/12/2016 11:22:50 AM
+15621,35,18,,Ennemies [100 - 33],"En tant que joueur, je souhaite affronter des ennemies, afin d'avoir du challenge",10/30/2016 5:08:20 PM,12/12/2016 11:22:50 AM
+15621,37,18,,Univers [40 - 28],"En tant que joueur, je souhaite évoluer dans un univers original et cohérent, afin d'avoir une meilleure immersion",10/30/2016 5:11:01 PM,12/12/2016 11:22:50 AM
+15621,38,18,,Environnement de travail [8],"En tant que développeur, je souhaite avoir un environnement de travail mis en place et optimal, afin de faciliter mon travail",10/30/2016 5:12:51 PM,12/12/2016 11:22:50 AM
+15621,39,18,35,Comportements [20],"En tant que joueur, je souhaite que les ennemies se déplacent et m'attaque, afin de me donner du challenge",10/30/2016 5:18:22 PM,12/12/2016 11:22:50 AM
+15621,40,18,,Level [60],"En tant que joueur, je souhaite évoluer dans des niveaux, afin d'avoir un jeu.",10/30/2016 5:20:14 PM,12/12/2016 11:22:50 AM
+15621,42,18,37,Background [8],"En tant que développeur, je souhaite créer une background de l'histoire, afin d'avoir un contenu plus cohérent",10/30/2016 7:35:59 PM,12/12/2016 11:22:50 AM
+15621,43,18,37,Scénario [20],"En tant que joueur, je souhaite que l'histoire soit scénarisée, afin de comprendre mes objectifs et enjeux",10/30/2016 7:36:37 PM,12/12/2016 11:22:50 AM
+15621,44,18,,Caméra [40],"En tant que joueur, je souhaite avoir une caméra, afin de voir le jeu",10/30/2016 7:56:54 PM,12/12/2016 11:22:52 AM
+15621,45,18,29,Arme de poing,"En tant que joueur, je souhaite posséder une arme de poing, afin de pouvoir me défendre si je ne peux plus utiliser mon arme principale",11/1/2016 11:27:57 AM,12/12/2016 11:22:51 AM
+15621,46,18,29,Fusil d'assaut,"En tant que joueur, je souhaite avoir un fusil d'assaut, afin d'avoir une forte puissance de feu et une grande mobilité",11/1/2016 11:28:59 AM,12/12/2016 11:22:51 AM
+15621,48,18,29,Recharger l'arme principale,"En tant que joueur, je souhaite avoir besoin de recharger mes armes, afin d'avoir une expérience plus réaliste",11/1/2016 11:49:12 AM,12/12/2016 11:22:51 AM
+15621,49,18,,Environnements du jeu [310],"En tant que joueur, je souhaite progresser dans un environnement propice au gameplay et pertinent avec l'univers, afin d'avoir des situations de gameplay et comprendre l'histoire et les enjeux",11/1/2016 12:11:16 PM,12/12/2016 11:35:28 AM
+15621,50,18,,SCRUM process,"En tant que développeur sur un model SCRUM, je souhaite suivre des process de bon fonctionnement, afin que le projet se passe pour le mieux",11/1/2016 12:16:59 PM,12/12/2016 11:22:49 AM
+15621,51,18,50,Sprint #2,,11/1/2016 12:19:20 PM,12/12/2016 11:22:49 AM
+15621,52,18,76,Attaque corps à corps [5],"En tant que joueur, je souhaite pouvoir faire des attaques au corps à corps, afin de faire des dégâts sans utiliser de munitions",11/1/2016 8:05:11 PM,12/12/2016 11:22:51 AM
+15621,53,18,33,Interagir avec l'environnement [13],"En tant que joueur, je souhaite pouvoir interagir avec l'environnement, afin d'élargir mes actions et augmenter le réalisme",11/1/2016 8:08:22 PM,12/12/2016 11:22:52 AM
+15621,54,18,53,Declencher sacrifice,"En tant que joueur, je souhaite pouvoir interagir avec le decor afin de sacrifier des parties de mon corps.",11/1/2016 8:09:16 PM,12/12/2016 11:22:52 AM
+15621,55,19,53,Ramasser éléments,"En tant que joueur, je souhaite pouvoir ramasser des éléments, comme des munitions, afin d'élargir mon champ d'action",11/1/2016 8:10:09 PM,12/12/2016 11:22:52 AM
+15621,56,18,68,Menus,"En tant que joueur, je souhaite avoir des menus, afin de naviguer entre les différentes étapes du jeu et avoir des choix",11/2/2016 10:48:30 PM,12/12/2016 11:22:52 AM
+15621,57,18,56,Ecran de chargement,"En tant que joueur, je souhaite avoir un écran de chargement, afin de connaître l'état du jeu",11/2/2016 10:55:10 PM,12/12/2016 11:22:52 AM
+15621,58,18,56,Options,,11/2/2016 10:56:22 PM,12/12/2016 11:22:52 AM
+15621,59,18,56,Game menu,"En tant que joueur, je souhaite avoir un menu en jeu, afin de pouvoir mettre le jeu en pause, revenir dans le menu principale, modifier les options etc...",11/2/2016 10:58:19 PM,12/12/2016 11:22:52 AM
+15621,61,18,56,Ecran de fin de partie,"En tant que joueur, je souhaite avoir un écran de fin de partie, afin de savoir quand la partie est fini",11/2/2016 11:02:45 PM,12/12/2016 11:22:52 AM
+15621,63,18,49,Metro [100],,11/3/2016 11:13:08 AM,12/12/2016 11:35:10 AM
+15621,66,18,,UI-HUD [13],"En tant que joueur, je souhaite avoir une UI afin d’interagir et avoir des informations sur le jeu",11/3/2016 11:39:30 AM,12/12/2016 11:22:50 AM
+15621,68,18,,Game Flow [40],"En tant que joueur, je souhaite que le jeu passe par plusieurs états, afin de toujours savoir ou je suis et ce qu'il se passe",11/3/2016 1:25:03 PM,12/12/2016 11:22:52 AM
+15621,69,18,68,Ingame flow,"En tant que joueur, je souhaite que le jeu passe par plusieurs états, afin de comprendre ce qui se passe.",11/3/2016 1:25:54 PM,12/12/2016 11:22:52 AM
+15621,75,18,68,Checkpoints,,11/3/2016 1:28:51 PM,12/12/2016 11:22:52 AM
+15621,76,18,33,Attaque [40 - 25],"En tant que joueur, je souhaite pouvoir attaquer afin d'avancer dans le niveau.",11/3/2016 1:31:51 PM,12/12/2016 11:22:51 AM
+15621,77,18,69,Ecran de défaite,"En tant que joueur, je souhaite avoir un état de défaite visible, afin de comprendre le jeu",11/3/2016 1:32:41 PM,12/12/2016 11:22:52 AM
+15621,78,18,5,Sprint [8],"En tant que joueur, je souhaite pouvoir sprinter afin de me deplacer plus vite",11/3/2016 1:37:22 PM,12/12/2016 11:22:52 AM
+15621,79,18,69,Ecran de victoire,"En tant que joueur, je souhaite avoir un état de victoire visible, afin de comprendre le jeu",11/3/2016 1:38:12 PM,12/12/2016 11:22:52 AM
+15621,80,18,5,S'accroupir [8],"En tant que joueur, je souhaite pouvoir m'accroupir afin de me mettre a couvert.",11/3/2016 1:39:22 PM,12/12/2016 11:22:52 AM
+15621,81,18,5,Marche [8],"En tant que joueur, je souhaite pouvoir marcher afin de me deplacer.",11/3/2016 1:42:21 PM,12/12/2016 11:22:51 AM
+15621,82,18,5,Idle [8],"En tant que joueur, je souhaite pouvoir rester sur place afin de rester sur place.",11/3/2016 1:56:32 PM,12/12/2016 11:22:51 AM
+15621,83,18,89,Milestone 3C,"En tant que client, je souhaite recevoir une milestone 3C, afin de voir l'avancé du projet.",11/6/2016 5:31:21 PM,12/12/2016 11:22:49 AM
+15621,84,18,29,Changer d'arme,,11/14/2016 10:39:54 AM,12/12/2016 11:22:51 AM
+15621,85,18,29,Viser,,11/14/2016 11:02:14 AM,12/12/2016 11:22:51 AM
+15621,86,18,50,Sprint #4,,11/14/2016 11:13:00 AM,12/12/2016 11:22:49 AM
+15621,87,18,50,Sprint #3,,11/14/2016 11:13:02 AM,12/12/2016 11:22:49 AM
+15621,88,18,56,Menu principal,,11/14/2016 11:48:35 AM,12/12/2016 11:22:52 AM
+15621,89,18,,Milestones,,11/19/2016 1:11:53 PM,12/12/2016 11:22:49 AM
+15621,90,18,33,Graphisme,,11/28/2016 11:26:21 AM,12/12/2016 11:22:50 AM
+15621,91,18,49,Proto graphique [10],"En tant que client, je souhaite voir un proto graphique afin de me projeter sur à quoi va ressembler le jeu.",11/28/2016 11:33:49 AM,12/12/2016 11:35:21 AM
+15621,92,18,94,Props décors,,12/12/2016 10:37:26 AM,12/12/2016 11:22:50 AM
+15621,93,18,94,Props bâtiments,,12/12/2016 10:40:28 AM,12/12/2016 11:22:50 AM
+15621,94,18,49,Jardin et exterieur [100],,12/12/2016 10:45:55 AM,12/12/2016 11:35:04 AM
+15621,95,18,49,Salle de réacteurs [100],,12/12/2016 10:47:32 AM,12/12/2016 11:35:15 AM
+15621,96,18,63,Rame,,12/12/2016 10:48:48 AM,12/12/2016 11:22:50 AM
+15621,97,18,63,Accueil,,12/12/2016 10:49:36 AM,12/12/2016 11:22:50 AM
+15621,98,18,50,Sprint #6,,12/12/2016 11:17:32 AM,12/12/2016 11:22:49 AM
+15621,99,18,50,Sprint #5,,12/12/2016 11:17:34 AM,12/12/2016 11:22:49 AM

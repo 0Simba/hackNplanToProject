@@ -1,0 +1,57 @@
+﻿ProjectId,TaskId,SubTaskId,Title,IsCompleted,CreationDate
+15621,98,1,Test de la build,False,11/1/2016 12:21:54 PM
+15621,98,2,Bilan et retour sprint,False,11/1/2016 12:22:05 PM
+15621,98,3,Lancement du sprint suivant,False,11/1/2016 12:22:18 PM
+15621,21,1,Overview,True,10/21/2016 8:29:51 AM
+15621,21,2,3C,True,10/21/2016 8:30:04 AM
+15621,21,3,Listing des features priorisées,True,10/21/2016 8:30:30 AM
+15621,21,4,Metrics LD,True,10/21/2016 8:30:43 AM
+15621,21,5,Gameflow,True,10/21/2016 8:30:49 AM
+15621,21,6,3 situations Proof of Concept,True,10/21/2016 8:31:08 AM
+15621,21,7,LD du niveau Sandbox 3C,True,10/21/2016 8:31:33 AM
+15621,21,8,Briques de gameplay priorisées,True,10/21/2016 8:31:57 AM
+15621,12,1,Risques • Rapide présentation de 3 principaux risques identifiés du projet,False,10/23/2016 8:08:04 PM
+15621,12,2,"Objectif milestone 3C • Estimation du contenu du jeu pour la milestone suivante (liste de features, plan LD etc...)",False,10/23/2016 8:08:14 PM
+15621,12,3,Choix Plateforme(s) (PC/Android/Browser...),False,10/23/2016 8:08:46 PM
+15621,12,4,"Choix Technologie moteur (UE4.13, Unity 5.4...) et son (Wwise, Fmod)",False,10/23/2016 8:08:58 PM
+15621,12,5,"Cible (N’est pas une tranche d’âge. N’est pas une classification par Age. Dites plutôt que vous ciblez les joueurs de tel ou tel jeu, donnez au moins 2 ou 3 jeux)",False,10/23/2016 8:09:13 PM
+15621,12,6,Rapide rappel pitch,False,10/23/2016 8:09:20 PM
+15621,197,1,Test de la build,False,11/14/2016 11:13:37 AM
+15621,197,2,Bilan et retour sprint,False,11/14/2016 11:13:37 AM
+15621,197,3,Lancement du sprint suivant,False,11/14/2016 11:13:37 AM
+15621,228,1,Modélisation,False,11/28/2016 11:36:26 AM
+15621,228,2,Texture,False,11/28/2016 11:36:34 AM
+15621,228,3,Vertex blend,False,11/28/2016 11:36:38 AM
+15621,202,1,Test de la build,False,11/14/2016 11:16:41 AM
+15621,202,2,Bilan et retour sprint,False,11/14/2016 11:16:41 AM
+15621,202,3,Lancement du sprint suivant,False,11/14/2016 11:16:41 AM
+15621,69,1,Chemin de fer,False,10/30/2016 7:40:23 PM
+15621,155,1,Level Design papier complet,True,11/6/2016 5:36:41 PM
+15621,155,2,Flowcharts de navigation,False,11/6/2016 5:36:49 PM
+15621,155,3,Améliorer l'esthétique,True,11/15/2016 9:56:42 AM
+15621,155,4,"Précision control ""Toggle/Hold""",True,11/15/2016 9:57:05 AM
+15621,155,5,Modifier la conjugaison des verbes (pas de futur),True,11/15/2016 9:57:25 AM
+15621,155,6,Faire une liste de feature (pas de détail),True,11/15/2016 9:57:44 AM
+15621,155,7,Préciser les jeux possédé dans les références,True,11/15/2016 9:58:25 AM
+15621,155,8,Metrics LD,True,11/15/2016 9:58:42 AM
+15621,155,9,Légendé le gameflow et le compléter,False,11/15/2016 9:58:59 AM
+15621,155,10,Préciser les briques de gameplay qui concerne les sacrifices,True,11/15/2016 9:59:21 AM
+15621,159,1,Gameplay (résumé et contrôles) ½ page environ,False,11/6/2016 5:38:48 PM
+15621,159,2,Contexte technologique du jeu ½ page environ,False,11/6/2016 5:38:55 PM
+15621,159,3,Analyse technique du jeu (incluant les risques techniques) 2 pages max,False,11/6/2016 5:39:01 PM
+15621,159,4,Diagramme UML des classes principales 1 page  environ,False,11/6/2016 5:39:08 PM
+15621,159,5,Diagramme d’interaction entre les objets et modules gameplay 1 page environ,False,11/6/2016 5:39:16 PM
+15621,159,6,Diagramme statique des modules par scène 1 page environ,False,11/6/2016 5:39:23 PM
+15621,159,7,Estimations de la complexité et de la durée des tâches de développement 1 page environ,False,11/6/2016 5:39:29 PM
+15621,229,1,Modélisation,False,11/28/2016 11:52:57 AM
+15621,229,2,Texture,False,11/28/2016 11:53:00 AM
+15621,230,1,Skybox,False,11/28/2016 11:54:29 AM
+15621,230,2,Océan,False,11/28/2016 11:54:37 AM
+15621,230,3,Plaque de brouillard,False,11/28/2016 11:55:02 AM
+15621,230,4,Archipel,False,11/28/2016 11:55:17 AM
+15621,260,1,Test de la build,False,12/12/2016 11:18:50 AM
+15621,260,2,Bilan et retour sprint,False,12/12/2016 11:18:50 AM
+15621,260,3,Lancement du sprint suivant,False,12/12/2016 11:18:50 AM
+15621,263,1,Test de la build,False,12/12/2016 11:18:56 AM
+15621,263,2,Bilan et retour sprint,False,12/12/2016 11:18:56 AM
+15621,263,3,Lancement du sprint suivant,False,12/12/2016 11:18:56 AM

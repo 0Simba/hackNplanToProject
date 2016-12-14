@@ -1,0 +1,239 @@
+﻿ProjectId,TaskId,Title,Description,CreatorUserId,MilestoneId,CategoryId,SubCategoryId,StatusId,DesignElementId,PlatformId,ImportanceLevelId,EstimatedCost,FinalCost,DueDate,CreationDate,UpdateDate,CompletionDate
+15621,16,"Un Working Title (nom court, 8 caractères max)","Un croquis suffit, ou une représentation schématique Pensez au HUD, à la caméra, mettez en scène une situation de jeu intéressante",15589,24846,9,63,4,31,,3,1,1,,10/19/2016 6:05:26 PM,10/24/2016 6:41:52 PM,10/21/2016 4:35:18 PM
+15621,23,Répertoires comprenant l’intégralité de vos recherches d’images de références,pas seulement la sélection de la pres,15589,24846,2,60,4,31,,3,0,0,,10/19/2016 6:08:51 PM,10/24/2016 6:43:02 PM,10/20/2016 8:21:22 PM
+15621,24,Recherches de palettes de couleurs pour l’ambiance de votre jeu,à partir de vos propres images ou à partir d’images existantes mais que vous avez retravaillé,15589,24846,2,60,4,31,,3,0,0,,10/19/2016 6:09:24 PM,10/27/2016 7:44:41 PM,10/27/2016 7:44:41 PM
+15621,25,les premières recherches 2D de silhouettes de votre perso principal,si vous en avez,15589,24846,2,60,4,31,,3,0,10,,10/19/2016 6:10:00 PM,10/27/2016 7:43:56 PM,10/27/2016 7:43:48 PM
+15621,29,Board(s) Trello en place et configuré(s),,15589,24846,8,64,4,31,,1,2,2,,10/19/2016 6:11:22 PM,10/31/2016 8:39:13 AM,10/31/2016 8:39:13 AM
+15621,30,"Planification des dates des sprints sur toute l’année - MS Project ""agile""",,15589,24846,8,64,4,31,,3,2,1,,10/19/2016 6:11:35 PM,10/24/2016 6:40:54 PM,10/23/2016 6:58:27 PM
+15621,33,Etablir une liste de sacrifice,,15589,24846,3,31,4,2,,3,2,2,,10/19/2016 8:38:53 PM,10/31/2016 2:26:37 PM,10/31/2016 2:26:36 PM
+15621,51,Chara Concept,Recherches design du chara joueur,15702,24846,2,16,4,90,,3,0,0,,10/20/2016 9:06:30 AM,11/28/2016 11:26:52 AM,10/27/2016 7:44:55 PM
+15621,55,Moodboard et recherches charte,Fixer la charte graphique et etablir un moodboard de references,15702,24846,2,16,4,37,,3,0,0,,10/20/2016 9:09:15 AM,10/30/2016 5:12:03 PM,10/20/2016 9:09:26 AM
+15621,57,Définir le mapping par défaut,,15589,24846,3,30,4,9,,2,1,1,,10/20/2016 8:26:33 PM,10/30/2016 7:51:31 PM,10/21/2016 7:33:58 AM
+15621,64,Définir les paramètres de la caméra.,,15599,24846,3,32,4,22,,2,1,1,,10/21/2016 8:14:40 AM,10/30/2016 7:56:03 PM,10/21/2016 8:17:48 AM
+15621,66,Définir les paramètres de la caméra de visée,,15599,24846,3,32,4,24,,3,1,1,,10/21/2016 8:25:37 AM,10/30/2016 7:58:25 PM,10/21/2016 8:26:19 AM
+15621,74,MS Project,,15589,25131,8,57,4,31,,1,1.5,1.5,,11/1/2016 11:14:15 AM,11/13/2016 5:23:09 PM,11/13/2016 5:23:09 PM
+15621,62,Créer une situation dans laquelle le joueur devra sacrifier son bras,,15599,25131,3,31,4,13,,3,1,2,,10/21/2016 7:59:27 AM,11/2/2016 9:47:10 PM,11/2/2016 5:46:35 PM
+15621,63,Créer une situation dans laquelle le joueur devra sacrifier sa jambe.,,15599,25131,3,31,4,10,,2,1,2,,10/21/2016 8:00:07 AM,11/3/2016 1:58:58 PM,11/3/2016 1:58:57 PM
+15621,96,Build sprint #2,,15589,25131,9,58,4,51,,3,1,0,,11/1/2016 12:19:12 PM,11/14/2016 8:52:14 AM,11/14/2016 8:52:14 AM
+15621,97,Branche master mergé avec sprint #2,,15589,25131,9,58,4,51,,3,2,0,,11/1/2016 12:20:41 PM,11/14/2016 8:52:26 AM,11/14/2016 8:52:27 AM
+15621,98,Réunion fin du sprint #2,,15589,25131,9,58,4,51,,3,12,7,,11/1/2016 12:21:42 PM,11/14/2016 9:39:51 AM,11/14/2016 9:39:52 AM
+15621,56,[Concept] Programmer le mapping sur les déplacements,,15589,25131,1,1,4,9,,3,1,0,,10/20/2016 8:26:02 PM,11/8/2016 1:31:25 PM,11/3/2016 11:12:17 AM
+15621,34,Etablir une ou des situations qui obligent un joueur à sacrifier son oeil,,15589,25131,3,31,4,3,,3,1,1,,10/19/2016 8:42:19 PM,11/2/2016 9:47:13 PM,11/2/2016 6:05:26 PM
+15621,38,[Concept] Création projet de base,,15596,25131,1,5,4,38,,2,2,1,11/2/2016 12:00:00 AM,10/20/2016 8:03:51 AM,11/3/2016 11:04:53 AM,11/2/2016 10:13:11 AM
+15621,39,[Concept] Création player basique ( déplacement ),,15596,25131,1,1,4,5,,2,0,0,,10/20/2016 8:05:29 AM,11/3/2016 11:03:34 AM,11/2/2016 8:50:00 AM
+15621,40,[Concept] Création Level prototype,,15596,25131,1,1,4,40,,2,0,0,,10/20/2016 8:05:50 AM,11/3/2016 11:05:31 AM,11/3/2016 11:05:20 AM
+15621,42,[Concept] Ajout caméra épaule simple,,15596,25131,1,1,4,22,,2,0,0,,10/20/2016 8:07:34 AM,11/3/2016 11:03:39 AM,11/2/2016 8:50:25 AM
+15621,43,[Concept] Changement d'arme ( une main VS deux mains ),,15596,25131,1,1,4,29,,3,0,0,,10/20/2016 8:08:08 AM,11/3/2016 11:17:15 AM,11/3/2016 11:17:14 AM
+15621,44,[Concept] Créer effet de sacrifice oeil,"Essayer les deux versions suivantes :- Cacher une partie de l'écran- Ajout d'un brouillard de guerre/ Effet vision ""projecteur"" autour du joueur ( à la Alan Wake )",15596,25131,1,1,4,3,,2,4,6,,10/20/2016 8:09:21 AM,11/3/2016 11:04:57 AM,11/2/2016 10:10:21 AM
+15621,45,[Concept] Créer effet de sacrifice Bras,à lier avec le changement d'armeessayer de faire le ragdoll sur le bras,15596,25131,1,1,4,13,,2,0,1,,10/20/2016 8:09:51 AM,11/3/2016 11:13:08 AM,11/3/2016 11:12:55 AM
+15621,46,[Concept] IA basique qui court vers le joueur,,15596,25131,1,1,4,39,,2,0,0,,10/20/2016 8:10:23 AM,11/3/2016 11:03:14 AM,11/2/2016 8:48:28 AM
+15621,47,[Concept] IA est tuable avec des tirs du joueur,,15596,25131,1,1,4,,,3,1,1,,10/20/2016 8:10:39 AM,11/3/2016 2:17:39 PM,11/2/2016 8:48:36 AM
+15621,31,Backlog avec les principales « stories »,"claires et priorisées : Niveaux, briques de gameplay, (ennemi à distance, caisse en bois…), features,( Pathfinding, upgrades…) (Trello et MS Project ""agile"")",15589,25131,8,64,4,31,,1,6,7,,10/19/2016 6:11:45 PM,11/1/2016 8:20:22 PM,11/1/2016 8:20:20 PM
+15621,32,Prototype gameplay (facultatif),Un vrai proto jetable (pas le début du développement)• Objectif : désamorcer les risques gameplay,15589,25131,9,63,4,31,,1,0,2,,10/19/2016 6:12:02 PM,11/14/2016 8:44:02 AM,11/14/2016 8:43:47 AM
+15621,26,Design doc de preprod en anglais,,15589,25131,6,62,4,31,,1,2,2,,10/19/2016 6:10:24 PM,11/14/2016 8:43:39 AM,11/14/2016 8:43:39 AM
+15621,27,Une musique originale illustrant le design du jeu (30 secondes),,15589,25131,6,62,4,31,,1,2.5,3.5,,10/19/2016 6:10:47 PM,11/14/2016 8:43:43 AM,11/14/2016 8:43:44 AM
+15621,28,Fichier de gestion de risques (xls ou équivalent),,15589,25131,8,64,4,31,,1,2,2.5,,10/19/2016 6:11:04 PM,11/13/2016 5:23:05 PM,11/13/2016 5:23:05 PM
+15621,17,Liste de noms finaux potentiels,"Un croquis suffit, ou une représentation schématique Pensez au HUD, à la caméra, mettez en scène une situation de jeu intéressante",15589,25131,9,63,4,31,,1,4,2,,10/19/2016 6:05:51 PM,11/5/2016 12:00:29 PM,11/5/2016 12:00:27 PM
+15621,18,Document Design 1-page principal EN ANGLAIS :,• Fake Screenshot (cf livrables groupe)• USP/KSP• Overview du scope,15589,25131,3,61,4,31,,1,2,2,,10/19/2016 6:06:32 PM,11/3/2016 11:35:59 AM,11/3/2016 9:13:27 AM
+15621,19,"""Sound List 3C"" validée par le sound designer",• Fake Screenshot (cf livrables groupe)• USP/KSP• Overview du scope,15589,25131,3,61,4,31,,1,1,1.5,,10/19/2016 6:06:54 PM,11/3/2016 12:57:58 PM,11/3/2016 12:57:57 PM
+15621,20,Liste de références gameplay,• Fake Screenshot (cf livrables groupe)• USP/KSP• Overview du scope,15589,25131,3,61,4,31,,1,0.25,0.25,,10/19/2016 6:07:19 PM,11/3/2016 1:20:44 PM,11/3/2016 1:20:39 PM
+15621,21,Documentation GD,"(Français ou anglais, format libre, contenu validé par l'équipe) renseignant au moins les points suivants: • Liste de features priorisée (pensez à l'analyse de data, la localisation anglais/français, la sauvegarde, le scoring, la replay value, etc.)• Metrics LD• Gameflow• 3C• 3 situations proof of concept• Plan détaillé du niveau sandbox 3C• Première liste priorisée de briques de gameplay",15589,25131,3,61,4,31,,1,8,16,,10/19/2016 6:07:44 PM,11/2/2016 10:12:13 PM,11/2/2016 10:12:12 PM
+15621,22,[Concept] Début du TDD (environ 2 pages),"• Résumé Gameplay : ½ page environ• Contexte technologique / choix technologique argumenté : ½ page environ• Points techniques critiques : 1 page environ• Catégoriser risques techniques :scalabilitéstructure de donnéesarchitecture logicielle (poo, généricité, interfaces,etc)interactions du systèmesystème local ou distribuéappel à des connaissances informatiques ou mathématiques pousséesinnovation",15589,25131,1,59,4,31,,1,3,3,,10/19/2016 6:08:10 PM,11/3/2016 11:12:40 AM,11/3/2016 11:12:26 AM
+15621,8,Préparer la présentation,"• Main feature• Modes de jeu, nombre de joueurs• Principales mécaniques de jeu• Objectif du jeu / critères de défaite• Overview rapide des 3C• Situation de jeu Proof of Concept• Structure du jeu et du level design",15589,25131,3,30,4,32,,1,3,2,,10/19/2016 5:55:47 PM,11/2/2016 10:30:14 PM,11/2/2016 10:29:58 PM
+15621,10,Préparer la présentation,Présentation rapide de la Direction artistique sonore.,15589,25131,6,49,4,32,,1,0.5,0.5,,10/19/2016 5:56:59 PM,11/5/2016 12:00:38 PM,11/5/2016 12:00:37 PM
+15621,11,[Concept] Préparer la présentation,• Argumentation des choix technos• Implémentation technique de la main feature• Problématiques techniques à résoudre,15589,25131,1,1,4,32,,1,1,1,,10/19/2016 5:57:16 PM,11/3/2016 11:12:53 AM,11/3/2016 11:12:43 AM
+15621,12,Préparer le présentation,,15589,25131,9,58,4,32,,1,6,6,,10/19/2016 5:57:37 PM,11/3/2016 9:07:00 AM,11/3/2016 9:06:59 AM
+15621,13,Préparer la présentation,• Rapide présentation de 2 ou 3 moodboards différents des styles graphiques envisagées• Premières recherches graphiques (couleurs/croquis décor/personnage…)IMPORTANT : indiquez vos références,15589,25131,2,11,4,32,,1,0,0.5,,10/19/2016 6:03:05 PM,11/14/2016 8:43:18 AM,11/14/2016 8:43:07 AM
+15621,14,Fake screenshot Collaboration Game Designers + Graphiste(s),"Un croquis suffit, ou une représentation schématique Pensez au HUD, à la caméra, mettez en scène une situation de jeu intéressante",15589,25131,9,63,4,31,,1,4,1.5,,10/19/2016 6:03:27 PM,11/14/2016 8:43:35 AM,11/14/2016 8:43:23 AM
+15621,15,"Le support de présentation, avec ses sources (images etc..)","Un croquis suffit, ou une représentation schématique Pensez au HUD, à la caméra, mettez en scène une situation de jeu intéressante",15589,25131,9,63,4,31,,1,4,4,,10/19/2016 6:05:16 PM,11/3/2016 9:06:55 AM,11/3/2016 9:06:54 AM
+15621,106,[Concept] Créer sacrifice jambe,,15597,25131,1,1,4,,,3,2,2,,11/2/2016 10:12:18 AM,11/3/2016 11:04:44 AM,11/2/2016 10:12:26 AM
+15621,93,Créer une découpe des différents niveaux/chapitres,,15589,25134,3,33,4,40,,2,4,3,,11/1/2016 12:14:56 PM,11/14/2016 2:34:52 PM,11/14/2016 2:34:53 PM
+15621,94,Liste de situation de gameplay,,15589,25134,3,33,4,40,,2,10,5,,11/1/2016 12:15:40 PM,11/15/2016 10:01:30 AM,11/15/2016 10:01:30 AM
+15621,99,Déplacement pas chassé,,15589,25134,1,1,4,5,,3,2,1,,11/1/2016 8:04:04 PM,11/27/2016 1:36:35 PM,11/27/2016 1:36:34 PM
+15621,89,Définir fonctionnement de la recharge,,15589,25134,3,31,4,48,,3,1.5,1.25,,11/1/2016 12:08:51 PM,11/24/2016 6:52:54 PM,11/24/2016 6:52:40 PM
+15621,65,Caméra basique,,15599,25134,1,1,4,22,,3,1,1,,10/21/2016 8:16:49 AM,11/27/2016 1:38:43 PM,11/27/2016 1:38:38 PM
+15621,70,Rédiger une bible du monde,,15589,25134,9,58,4,42,,2,4,3.5,,10/30/2016 7:38:23 PM,11/26/2016 9:03:53 AM,11/26/2016 9:03:51 AM
+15621,140,Désactiver visée,,15598,25134,1,1,4,13,,3,1,0.75,,11/3/2016 2:24:00 PM,11/28/2016 9:02:28 AM,11/28/2016 9:02:23 AM
+15621,162,Une planche de design définitif en turn du personnage principal prêt à être modélisé (+ Sources),,15589,25134,2,60,4,83,,3,4,1,,11/6/2016 5:40:48 PM,11/15/2016 4:12:30 PM,11/15/2016 4:12:07 PM
+15621,178,LD Papier final,Storyboard complet du LD,15589,25134,3,31,4,,,3,15,14,,11/14/2016 8:58:56 AM,11/15/2016 3:28:01 PM,11/15/2016 3:27:56 PM
+15621,179,Activer animation idle,,15597,25134,1,1,4,82,,3,1,0.5,,11/14/2016 10:00:42 AM,11/27/2016 1:37:13 PM,11/27/2016 1:36:57 PM
+15621,180,Activer animation walk,,15597,25134,1,1,4,81,,3,1,0.5,,11/14/2016 10:01:35 AM,11/27/2016 1:37:35 PM,11/27/2016 1:37:29 PM
+15621,181,Activer animations quand accroupi,,15597,25134,1,1,4,80,,3,2,1,,11/14/2016 10:07:31 AM,11/27/2016 1:38:21 PM,11/27/2016 1:38:12 PM
+15621,182,Activer animation sprint,,15597,25134,1,1,4,78,,3,1,0.5,,11/14/2016 10:07:47 AM,11/27/2016 1:37:56 PM,11/27/2016 1:37:45 PM
+15621,184,Activer caméra visée,,15597,25134,1,1,4,24,,3,1,0.5,,11/14/2016 10:13:11 AM,11/27/2016 1:39:10 PM,11/27/2016 1:39:02 PM
+15621,190,Activer animation tir,,15597,25134,1,1,4,28,,3,1,1.5,,11/14/2016 11:01:36 AM,11/27/2016 1:40:16 PM,11/27/2016 1:40:13 PM
+15621,191,Activer animation viser,,15597,25134,1,1,4,85,,3,1,1,,11/14/2016 11:02:44 AM,11/27/2016 1:40:21 PM,11/27/2016 1:40:21 PM
+15621,197,Réunion fin du sprint #3,,15589,25134,9,58,4,87,,3,12,4,,11/14/2016 11:13:37 AM,11/28/2016 9:23:59 AM,11/28/2016 9:15:45 AM
+15621,198,Build sprint #3,,15589,25134,9,58,4,87,,3,1,1,,11/14/2016 11:13:40 AM,11/28/2016 12:00:58 PM,11/28/2016 12:00:47 PM
+15621,199,Branche master mergé avec sprint #3,,15589,25134,9,58,4,87,,3,2,0.5,,11/14/2016 11:13:44 AM,11/28/2016 11:22:21 AM,11/28/2016 11:22:03 AM
+15621,200,Collision caméra / décor,,15597,25134,1,1,4,22,,3,1,0.5,,11/14/2016 11:15:33 AM,11/27/2016 1:50:30 PM,11/27/2016 1:50:30 PM
+15621,218,Intégrer Wwise + liste d'events avec place holders,,15589,25134,6,49,4,83,,3,3,3,,11/21/2016 9:38:30 PM,11/28/2016 8:58:37 AM,11/28/2016 8:57:15 AM
+15621,222,Héro - Hight poly,,15589,25134,2,11,4,90,,3,10,20,,11/28/2016 11:27:40 AM,12/6/2016 5:56:09 PM,12/6/2016 5:56:10 PM
+15621,216,garden concept,,15740,25134,2,11,4,49,,2,15,10,,11/15/2016 4:14:06 PM,12/6/2016 5:56:01 PM,12/6/2016 5:56:01 PM
+15621,68,Mise en place git,,15589,25135,9,58,4,38,,3,2,2,,10/30/2016 6:39:52 PM,12/12/2016 10:09:37 AM,12/12/2016 10:09:32 AM
+15621,95,Tout les membres de l'équipe on les outils pour travailler,,15589,25135,9,58,4,38,,3,4,0,,11/1/2016 12:16:46 PM,12/12/2016 11:07:00 AM,12/12/2016 11:07:00 AM
+15621,92,Définir les différents environnements du jeu,,15589,25135,9,58,4,49,,2,6,6,,11/1/2016 12:13:37 PM,12/12/2016 11:06:47 AM,12/12/2016 11:06:37 AM
+15621,215,Créer un Storyboard du LD,,15599,25135,3,33,4,40,,3,10,8.5,,11/15/2016 3:27:27 PM,12/12/2016 8:26:58 AM,12/12/2016 8:26:52 AM
+15621,228,Sol,,15589,25135,2,11,4,91,,3,10,10,,11/28/2016 11:35:28 AM,12/12/2016 11:02:18 AM,12/12/2016 11:02:15 AM
+15621,208,"Créer bouton ""Join Session""",,15597,25135,1,1,4,88,,3,1,0.5,,11/14/2016 1:17:25 PM,11/30/2016 9:39:34 AM,11/30/2016 9:39:32 AM
+15621,209,"Créer bouton ""Create session""",,15597,25135,1,1,4,88,,3,1,0.5,,11/14/2016 1:17:52 PM,11/30/2016 9:39:40 AM,11/30/2016 9:39:40 AM
+15621,195,Mapper les touches au clavier,,15597,25135,1,1,4,8,,3,1,0.15,,11/14/2016 11:10:33 AM,12/12/2016 11:09:09 AM,12/12/2016 11:09:09 AM
+15621,196,Créer décor interactible,,15597,25135,1,1,4,54,,3,1,1,,11/14/2016 11:12:51 AM,11/28/2016 11:30:54 AM,11/28/2016 11:30:54 AM
+15621,202,Réunion fin du sprint #4,,15589,25135,9,58,4,86,,3,12,3.5,,11/14/2016 11:16:41 AM,12/12/2016 11:17:18 AM,12/12/2016 10:10:15 AM
+15621,204,Build sprint #4,,15589,25135,9,58,4,86,,3,1,0.5,,11/14/2016 11:16:43 AM,12/12/2016 10:11:14 AM,12/12/2016 10:11:07 AM
+15621,205,Branche master mergé avec sprint #4,,15589,25135,9,58,4,86,,3,2,1,,11/14/2016 11:16:46 AM,12/12/2016 11:18:30 AM,12/12/2016 11:18:27 AM
+15621,148,Reduire vitesse de deplacement,,15598,25135,1,1,4,10,,3,1,0.25,,11/3/2016 2:30:23 PM,11/28/2016 3:40:24 PM,11/28/2016 3:40:24 PM
+15621,141,Declencher Ragdoll du bras,,15598,25135,1,1,4,13,,3,1,0.5,,11/3/2016 2:26:30 PM,11/28/2016 3:40:35 PM,11/28/2016 3:40:32 PM
+15621,150,Effet caméra post sacrifice oeil,,15598,25135,1,1,4,3,,3,2,1,,11/3/2016 2:34:58 PM,11/28/2016 3:40:12 PM,11/28/2016 3:40:13 PM
+15621,242,Cascade,,15589,25135,2,11,4,92,,3,4,3,,12/12/2016 10:41:37 AM,12/12/2016 11:01:43 AM,12/12/2016 11:01:41 AM
+15621,243,Ruisseau,,15589,25135,2,11,4,92,,3,4,4,,12/12/2016 10:41:48 AM,12/12/2016 11:01:55 AM,12/12/2016 11:01:52 AM
+15621,235,Pont,,15589,25135,2,11,4,92,,3,4,4,,12/12/2016 10:37:58 AM,12/12/2016 11:00:58 AM,12/12/2016 11:00:57 AM
+15621,236,Banc,,15589,25135,2,11,4,92,,3,4,4,,12/12/2016 10:38:25 AM,12/12/2016 11:01:03 AM,12/12/2016 11:01:03 AM
+15621,237,Cailloux (5),,15589,25135,2,11,4,92,,3,4,3,,12/12/2016 10:38:52 AM,12/12/2016 11:01:10 AM,12/12/2016 11:01:09 AM
+15621,238,Boudin terasse SF,,15589,25135,2,11,4,92,,3,4,4,,12/12/2016 10:39:13 AM,12/12/2016 11:01:17 AM,12/12/2016 11:01:16 AM
+15621,239,Fougère - cyprès - buissons - herbe,,15589,25135,2,11,4,92,,3,10,8,,12/12/2016 10:39:47 AM,12/12/2016 11:01:24 AM,12/12/2016 11:01:21 AM
+15621,123,Concept art metro,,15740,25136,2,11,1,63,,3,6,0,,11/3/2016 11:14:41 AM,12/12/2016 11:03:40 AM,
+15621,69,Rédiger le scénario du jeu,,15589,25136,9,58,1,43,,2,10,0,,10/30/2016 7:37:56 PM,12/12/2016 11:07:12 AM,
+15621,90,Implémenter le système de recharge,,15589,25136,1,1,2,48,,3,4,0,,11/1/2016 12:09:18 PM,12/12/2016 9:58:07 AM,
+15621,91,Interface gestion munitions pour game designers,,15589,25136,1,5,1,48,,3,1,0,,11/1/2016 12:10:09 PM,12/12/2016 11:08:32 AM,
+15621,72,Infliger des dégâts avec l'arme,,15589,25136,1,1,2,28,,3,6,0,,11/1/2016 10:59:57 AM,12/12/2016 9:58:11 AM,
+15621,88,Intégration fusil d'assaut,,15589,25136,1,1,2,46,,3,2,0,,11/1/2016 11:54:27 AM,12/12/2016 9:58:14 AM,
+15621,82,Intégration de l'arme de poing,,15589,25136,1,1,1,45,,3,2,0,,11/1/2016 11:46:39 AM,12/12/2016 10:00:31 AM,
+15621,151,"Le support de présentation, avec ses sources (images, etc.)",,15589,25136,9,63,1,83,,3,4,0,,11/6/2016 5:33:36 PM,12/12/2016 11:07:16 AM,
+15621,152,Proposition de nom définitif pour le jeu. (international),,15589,25136,9,63,1,83,,3,4,0,,11/6/2016 5:34:08 PM,12/12/2016 11:07:18 AM,
+15621,153,1-page principal à jour en fonction des retours,,15589,25136,3,31,1,83,,3,1.5,0,,11/6/2016 5:35:01 PM,12/12/2016 10:53:23 AM,
+15621,154,"""Sound List 3C"" à faire évoluer en ""sound list projet"" validée par le sound designer",,15589,25136,3,31,1,83,,3,3,0,,11/6/2016 5:35:13 PM,12/12/2016 11:07:13 AM,
+15621,155,Documentation GD à jour en fonction des retours,Votre documentation doit traiter ces sujets supplémentaires :•	Level Design papier complet•	Flowcharts de navigation,15589,25136,3,31,2,83,,3,5.5,4.5,,11/6/2016 5:35:50 PM,12/13/2016 8:34:53 AM,
+15621,156,"1-page ""Controls"" en anglais qui pourra être donné aux playtesteurs 3C",sera habillé plus tard dans l'année par les game artists,15589,25136,3,31,3,83,,3,3,1,,11/6/2016 5:37:22 PM,12/14/2016 11:01:30 AM,
+15621,157,Document features en anglais (vous sera transmis),,15589,25136,3,31,3,83,,3,3.5,1.5,,11/6/2016 5:37:42 PM,12/14/2016 11:01:26 AM,
+15621,158,KPI pour tracking DeltaDNA,,15589,25136,3,31,1,83,,3,4,0,,11/6/2016 5:37:56 PM,12/12/2016 10:53:35 AM,
+15621,159,TDD,"avec toutes les parties, pas à l’état final. Doit contenir des pistes et solutions potentielles pour les points techniques critiques.",15589,25136,1,8,2,83,,3,10,1,,11/6/2016 5:38:37 PM,12/14/2016 10:43:54 AM,
+15621,160,Proto 3C,"validant choix caméra, contrôles, capacités personnage (pas d’architecture complète nécessaire, contenu minimal mais proprement codé et architecturé au niveau de l’objet).",15589,25136,1,59,1,83,,3,0,0,,11/6/2016 5:39:54 PM,12/12/2016 9:08:33 AM,
+15621,161,Intégration tous les sons placeholders liés à la 3C (cf sound list 3C),,15589,25136,1,59,2,83,,3,5,0,,11/6/2016 5:40:21 PM,12/14/2016 10:44:03 AM,
+15621,142,Visée moins precise,,15598,25136,1,1,1,13,,3,2,0,,11/3/2016 2:26:47 PM,12/12/2016 11:08:40 AM,
+15621,183,Activer animation sacrifice,,15597,25136,1,1,1,54,,3,1,0,,11/14/2016 10:08:38 AM,12/12/2016 11:08:35 AM,
+15621,163,Une ou plusieurs planche(s) décor par ambiance différente proposées dans le jeu..,,15589,25136,2,60,1,83,,3,4,0,,11/6/2016 5:41:03 PM,12/12/2016 11:03:54 AM,
+15621,164,Une ou plusieurs planche(s) de design des différents ennemis et/ou autres ingrédients de jeu.,,15589,25136,2,60,2,83,,3,4,0,,11/6/2016 5:41:16 PM,12/12/2016 11:05:02 AM,
+15621,165,"Présentation des méthodes de production (éléments réutilisables, assemblage des scènes, outils envisagés..).",,15589,25136,2,60,1,83,,3,4,0,,11/6/2016 5:41:30 PM,12/12/2016 11:03:48 AM,
+15621,166,Évaluation des besoins spécifiques en setup/animation/intégration,"avec si besoin un prototype sur une modélisation temporaire, (sinon le personnage est à faire plus tard). Si tout est validé, il est possible de proposer une modélisation de personnage mais cela reste très optionnel.",15589,25136,2,60,2,83,,3,4,1,,11/6/2016 5:41:54 PM,12/12/2016 11:05:05 AM,
+15621,167,Une ou plusieurs planche(s) des premières intentions graphiques au niveau de la UI,,15589,25136,2,60,1,83,,3,4,0,,11/6/2016 5:42:16 PM,12/12/2016 11:03:52 AM,
+15621,168,les recherches graphiques 2D et ou 3D associées aux éléments présentés dans le proto graphique,,15589,25136,2,60,2,83,,3,4,0,,11/6/2016 5:42:36 PM,12/12/2016 11:05:09 AM,
+15621,169,Document Project mis à jour (Stories et tâches),,15589,25136,8,57,1,83,,3,4,0,,11/6/2016 5:42:56 PM,12/12/2016 11:05:59 AM,
+15621,170,Hack n plan à jour,,15589,25136,8,64,2,83,,3,6,1,,11/6/2016 5:43:19 PM,12/12/2016 11:06:07 AM,
+15621,171,Fichier de risques à jour,,15589,25136,8,64,2,83,,3,3,0.5,,11/6/2016 5:43:34 PM,12/12/2016 11:06:10 AM,
+15621,172,Reporting Complet,,15589,25136,8,64,2,83,,3,3,0.5,,11/6/2016 5:43:52 PM,12/12/2016 11:06:12 AM,
+15621,173,S'assurer que le Google Drive projet est à jour.,,15589,25136,8,64,2,83,,3,3,0,,11/6/2016 5:44:12 PM,12/12/2016 11:06:04 AM,
+15621,174,Compiler une release note pour les protos,,15589,25136,8,64,1,83,,3,3,0,,11/6/2016 5:44:26 PM,12/12/2016 11:06:02 AM,
+15621,175,Compiler une release note pour les protos,,15589,25136,6,62,1,83,,3,3,0,,11/6/2016 5:44:45 PM,12/12/2016 11:05:25 AM,
+15621,176,Prototype sonore d'une minute de l'environnement audio du projet musique + Sound design,(Fichier Wav 24 bits 48Khz),15589,25136,6,62,1,83,,3,4,0,,11/6/2016 5:45:10 PM,12/12/2016 11:05:28 AM,
+15621,188,Changer arme courante,,15597,25136,1,1,1,84,,3,1,0,,11/14/2016 10:41:27 AM,12/12/2016 10:00:56 AM,
+15621,189,Activer animation rechargement,,15597,25136,1,1,1,48,,3,1,0,,11/14/2016 10:49:35 AM,12/12/2016 11:08:43 AM,
+15621,185,IA qui se déplace vers le joueur,,15597,25136,1,1,1,39,,3,2,0,,11/14/2016 10:34:50 AM,12/12/2016 10:00:37 AM,
+15621,201,Mouvement caméra sprint,,15597,25136,1,1,1,22,,3,1,0,,11/14/2016 11:16:28 AM,12/12/2016 11:08:51 AM,
+15621,192,Améliorer précision arme,,15597,25136,1,1,1,85,,3,2,0,,11/14/2016 11:03:40 AM,12/12/2016 11:08:45 AM,
+15621,193,Dispersion des tirs,,15597,25136,1,1,1,28,,3,2,0,,11/14/2016 11:04:16 AM,12/12/2016 10:01:14 AM,
+15621,194,Empêcher utilisation arme principale,,15597,25136,1,1,1,13,,3,1,0,,11/14/2016 11:05:59 AM,12/12/2016 11:08:48 AM,
+15621,206,"Créer bouton ""Options""",,15597,25136,1,1,4,88,,3,1,0.5,,11/14/2016 1:15:46 PM,12/14/2016 10:43:28 AM,12/14/2016 10:43:28 AM
+15621,207,"Créer bouton ""Quit""",,15597,25136,1,1,4,88,,3,1,0.5,,11/14/2016 1:16:14 PM,12/14/2016 10:43:19 AM,12/14/2016 10:43:16 AM
+15621,203,Mouvement caméra tir,,15597,25136,1,1,1,22,,3,1,0,,11/14/2016 11:16:42 AM,12/12/2016 11:08:53 AM,
+15621,210,Créer lobby,,15597,25136,1,1,4,88,,3,7,21,,11/14/2016 1:18:32 PM,12/14/2016 10:43:38 AM,12/14/2016 10:43:33 AM
+15621,211,"Créer bouton ""Launch game""",,15597,25136,1,1,4,88,,3,2,1,,11/14/2016 1:19:26 PM,12/14/2016 10:43:24 AM,12/14/2016 10:43:24 AM
+15621,212,Documentation,,15598,25136,1,8,2,,,3,3,0,,11/14/2016 1:36:11 PM,12/12/2016 9:05:49 AM,
+15621,229,Background - Bâtiments de fond,,15589,25136,2,11,2,91,,3,10,5,,11/28/2016 11:52:48 AM,12/12/2016 11:04:51 AM,
+15621,230,Background - Diorama,,15589,25136,2,11,1,91,,3,17,0,,11/28/2016 11:54:20 AM,12/12/2016 11:03:58 AM,
+15621,227,Créer scène etc...,,15589,25136,2,11,2,91,,3,1,0,,11/28/2016 11:35:06 AM,12/12/2016 11:04:58 AM,
+15621,217,Mise à jour du Sound Design doc en anglais en fonction des évolutions du projet,,15589,25136,6,49,1,83,,3,0,0,,11/21/2016 9:35:00 PM,12/12/2016 11:05:30 AM,
+15621,223,Héro - Retopo,,15589,25136,2,11,2,90,,3,10,0,,11/28/2016 11:28:30 AM,12/12/2016 11:05:12 AM,
+15621,240,Arbres,,15589,25136,2,11,2,92,,3,6,6,,12/12/2016 10:40:12 AM,12/12/2016 11:05:14 AM,
+15621,241,Bâtiments backgrounds,,15589,25136,2,11,1,93,,3,4,0,,12/12/2016 10:40:46 AM,12/12/2016 11:04:05 AM,
+15621,260,Réunion fin du sprint #5,,15589,25136,9,58,1,99,,3,12,0,,12/12/2016 11:18:50 AM,12/12/2016 11:23:50 AM,
+15621,261,Build sprint #5,,15589,25136,9,58,1,99,,3,1,0,,12/12/2016 11:18:52 AM,12/12/2016 11:23:52 AM,
+15621,262,Branche master mergé avec sprint #5,,15589,25136,9,58,1,99,,3,2,0,,12/12/2016 11:18:54 AM,12/12/2016 11:23:53 AM,
+15621,234,Intégration,,15589,25136,2,11,2,91,,3,20,0,,11/28/2016 11:59:00 AM,12/12/2016 11:05:07 AM,
+15621,266,Level Sandbox modélisé,,15599,25136,3,30,3,,,3,8,4.5,,12/12/2016 1:29:12 PM,12/14/2016 11:01:34 AM,
+15621,244,Oeuf architecture SF,,15589,25136,2,11,1,93,,3,1.5,0,,12/12/2016 10:45:37 AM,12/12/2016 11:04:08 AM,
+15621,245,Bâtiment arche,,15589,25136,2,11,1,93,,3,15,0,,12/12/2016 10:50:44 AM,12/12/2016 11:04:11 AM,
+15621,246,Fontaine,,15589,25136,2,11,1,93,,3,6,0,,12/12/2016 10:51:07 AM,12/12/2016 11:04:14 AM,
+15621,247,Appareil anti-gravité végétation,,15589,25136,2,11,1,93,,3,4,0,,12/12/2016 10:51:58 AM,12/12/2016 11:04:17 AM,
+15621,248,Végétation flottante,,15589,25136,2,11,1,93,,3,4,0,,12/12/2016 10:52:15 AM,12/12/2016 11:04:20 AM,
+15621,249,Holograme,,15589,25136,2,11,1,92,,3,4,0,,12/12/2016 10:53:38 AM,12/12/2016 11:04:23 AM,
+15621,250,Buisson taillé,,15589,25136,2,11,1,92,,3,5,0,,12/12/2016 10:53:59 AM,12/12/2016 11:04:27 AM,
+15621,251,Arbre orange,,15589,25136,2,11,1,92,,3,4,0,,12/12/2016 10:54:10 AM,12/12/2016 11:04:29 AM,
+15621,252,Lopin de terre ruisseau,,15589,25136,2,11,1,92,,3,4,0,,12/12/2016 10:54:32 AM,12/12/2016 11:04:32 AM,
+15621,253,Sculpture circulaire,,15589,25136,2,11,1,92,,3,1,0,,12/12/2016 10:55:41 AM,12/12/2016 11:04:35 AM,
+15621,254,Océan,,15589,25136,2,11,1,92,,3,2.5,0,,12/12/2016 10:56:39 AM,12/12/2016 11:04:37 AM,
+15621,255,Pétale de fleurs,,15589,25136,2,11,1,92,,3,1,0,,12/12/2016 10:56:58 AM,12/12/2016 11:04:40 AM,
+15621,256,Lampadaire luminescent,,15589,25136,2,11,1,92,,3,3,0,,12/12/2016 10:58:08 AM,12/12/2016 11:04:42 AM,
+15621,257,Roseaux,,15589,25136,2,11,1,92,,3,2,0,,12/12/2016 10:58:34 AM,12/12/2016 11:04:44 AM,
+15621,263,Réunion fin du sprint #6,,15589,25137,9,58,1,98,,3,12,0,,12/12/2016 11:18:56 AM,12/12/2016 11:23:33 AM,
+15621,264,Build sprint #6,,15589,25137,9,58,1,98,,3,1,0,,12/12/2016 11:18:58 AM,12/12/2016 11:23:36 AM,
+15621,265,Branche master mergé avec sprint #6,,15589,25137,9,58,1,98,,3,2,0,,12/12/2016 11:18:59 AM,12/12/2016 11:23:34 AM,
+15621,83,Animation tir avec arme de poing,,15589,,2,13,1,45,,3,0,0,,11/1/2016 11:52:13 AM,,
+15621,84,Concept art fusil d'assaut,,15589,,2,16,1,46,,3,2,0,,11/1/2016 11:52:50 AM,,
+15621,85,Modélisation fusil d'assaut,,15589,,2,11,1,46,,3,0,0,,11/1/2016 11:53:15 AM,,
+15621,86,Muzzle flash fusil d'assaut,,15589,,2,18,1,46,,3,0,0,,11/1/2016 11:53:39 AM,,
+15621,87,Animation tir avec fusil d'assaut,,15589,,2,13,1,46,,3,0,0,,11/1/2016 11:54:01 AM,,
+15621,101,Animation attaque corps à corps avec fusil d'assaut,,15589,,2,13,1,52,,3,0,0,,11/1/2016 8:06:27 PM,,
+15621,102,Animation attaque corps à corps avec arme de poing,,15589,,2,13,1,52,,3,0,0,,11/1/2016 8:06:32 PM,11/1/2016 8:06:49 PM,
+15621,103,Son attaque corps à corps,,15589,,6,49,1,52,,3,0,0,,11/1/2016 8:07:08 PM,,
+15621,104,Son corps à corps impacte,,15589,,6,49,1,52,,3,0,0,,11/1/2016 8:07:29 PM,,
+15621,105,Infliger dégâts attaque càc,,15589,,1,1,1,52,,3,2,0,,11/1/2016 8:07:56 PM,12/12/2016 10:00:21 AM,
+15621,71,Créer process de travail git + unreal,,15589,,1,5,1,38,,2,3,0,,11/1/2016 10:52:20 AM,11/1/2016 10:52:26 AM,
+15621,76,Son quand changement d'arme,,15589,,6,49,1,29,,3,1,0,,11/1/2016 11:31:00 AM,,
+15621,77,Concept art de l'arme de poing,,15589,,2,16,1,45,,3,2,0,,11/1/2016 11:39:13 AM,,
+15621,78,impact de balle,- Particule d'impact- texture de trou de balle,15589,,2,18,1,28,,3,0,0,,11/1/2016 11:40:07 AM,11/3/2016 2:15:56 PM,
+15621,79,Bruit impact sur les murs,,15589,,6,49,1,28,,3,1,0,,11/1/2016 11:40:34 AM,11/3/2016 2:13:35 PM,
+15621,80,Modélisation de l'arme de poing,,15589,,2,18,1,45,,3,0,0,,11/1/2016 11:45:17 AM,,
+15621,81,Muzzle flash arme de poing,,15589,,2,18,1,45,,3,2,0,,11/1/2016 11:46:10 AM,,
+15621,58,Créer une situation dans laquelle le joueur devra sacrifier son arme.,,15599,,3,31,1,,,4,1,0,,10/21/2016 7:52:24 AM,10/30/2016 7:43:31 PM,
+15621,59,Créer une/des situations dans laquelle le joueur devra sacrifier son armure.,,15599,,3,31,1,,,4,1,0,,10/21/2016 7:53:20 AM,10/30/2016 7:43:54 PM,
+15621,60,Créer une/des situation(s) dans laquelle le joueur devra sacrifier son état mental.,,15599,,3,31,1,,,4,1,0,,10/21/2016 7:54:16 AM,10/30/2016 7:44:25 PM,
+15621,61,Créer une/des situations dans laquelle le joueur devra sacrifier son ouïe.,,15599,,3,31,1,,,4,1,0,,10/21/2016 7:56:10 AM,10/30/2016 7:44:40 PM,
+15621,35,Animation personnage qui perd son oeil,,15589,,2,13,1,3,,3,4,0,,10/19/2016 8:43:33 PM,11/1/2016 12:26:36 PM,
+15621,36,Cri du personnage,,15589,,6,51,1,3,,3,1,0,,10/19/2016 8:43:54 PM,11/3/2016 2:34:17 PM,
+15621,52,Ennemi Concept,Recherches chara du design des ennemis,15702,,2,16,1,35,,3,0,0,,10/20/2016 9:07:10 AM,11/28/2016 9:12:09 AM,
+15621,124,Concept art entré metro,,15740,,2,11,1,63,,3,6,0,,11/3/2016 11:14:54 AM,12/12/2016 10:47:23 AM,
+15621,125,Créer charte Ui,,15740,,2,11,1,66,,3,14,0,,11/3/2016 11:41:39 AM,12/11/2016 11:16:46 AM,
+15621,127,Etat défaite,,15589,,1,1,1,77,,3,1,0,,11/3/2016 1:28:33 PM,11/3/2016 1:33:32 PM,
+15621,128,Retourner au dernier checkpoint,,15589,,1,1,1,77,,3,1,0,,11/3/2016 1:32:19 PM,11/3/2016 1:42:34 PM,
+15621,129,Effets et animation de la défaite,,15589,,2,11,1,77,,3,10,0,,11/3/2016 1:35:21 PM,,
+15621,130,Musique de défaite,,15589,,6,50,1,77,,3,3,0,,11/3/2016 1:35:40 PM,,
+15621,131,Intégrer conditions de défaite,,15589,,1,1,1,77,,3,2,0,,11/3/2016 1:39:13 PM,,
+15621,132,Intégrer condition de victoire,,15589,,1,1,1,79,,3,2,0,,11/3/2016 1:39:38 PM,11/3/2016 1:43:48 PM,
+15621,133,Etat de victoire,,15589,,1,1,1,79,,3,1,0,,11/3/2016 1:39:49 PM,11/3/2016 1:43:27 PM,
+15621,134,"Après la victoire, retour au menu",,15589,,1,1,1,79,,3,1,0,,11/3/2016 1:40:57 PM,,
+15621,107,Bouton son click,,15589,,6,49,1,56,,3,1,0,,11/2/2016 10:52:52 PM,,
+15621,108,Bouton son over,,15589,,6,49,1,56,,3,1,0,,11/2/2016 10:53:07 PM,,
+15621,109,Design bouton,,15589,,2,12,1,56,,3,3,0,,11/2/2016 10:53:51 PM,11/2/2016 10:54:00 PM,
+15621,110,Design sliders,,15589,,2,12,1,56,,3,2,0,,11/2/2016 10:54:44 PM,,
+15621,111,Fond écran de chargement,,15589,,2,12,1,57,,3,2,0,,11/2/2016 10:55:51 PM,,
+15621,112,Barre de chargement,,15589,,1,1,1,57,,3,2.5,0,,11/2/2016 10:56:12 PM,,
+15621,113,Modifier volumes sonores du jeu,,15589,,1,1,1,58,,3,2,0,,11/2/2016 10:57:01 PM,11/3/2016 11:16:07 AM,
+15621,114,Modifier qualité graphique,,15589,,1,1,1,58,,3,4,0,,11/2/2016 10:57:42 PM,,
+15621,115,Modifier la langue,,15589,,1,1,1,58,,3,2,0,,11/2/2016 10:58:10 PM,,
+15621,116,Mets le jeu en pause,,15589,,1,1,1,59,,3,0.5,0,,11/2/2016 10:59:06 PM,,
+15621,117,Retour au jeu,,15589,,1,1,1,59,,3,0.5,0,,11/2/2016 10:59:23 PM,,
+15621,118,Retour menu principal,,15589,,1,1,1,59,,3,0.5,0,,11/2/2016 10:59:43 PM,,
+15621,224,Héro - Uv,,15589,,2,11,1,90,,3,1,0,,11/28/2016 11:28:50 AM,11/28/2016 11:59:48 AM,
+15621,225,Héro - Texture,,15589,,2,11,1,90,,3,5,0,,11/28/2016 11:29:02 AM,11/28/2016 11:59:51 AM,
+15621,226,Héro - Rig,,15589,,2,11,1,90,,3,15,0,,11/28/2016 11:29:15 AM,11/28/2016 11:59:52 AM,
+15621,213,"Créer bouton ""Crédits""",,15589,,1,1,1,88,,3,1,0,,11/15/2016 11:44:01 AM,11/15/2016 11:44:11 AM,
+15621,214,Écran de crédits,,15589,,1,1,1,88,,3,3,0,,11/15/2016 11:44:51 AM,,
+15621,219,Paramètres du fusil d'assaut,,15599,,3,31,1,46,,3,2,0,,11/27/2016 10:26:41 AM,11/27/2016 10:29:36 AM,
+15621,220,Paramètre de l'arme de poing,,15599,,3,31,1,45,,3,2,0,,11/27/2016 10:27:22 AM,,
+15621,221,Paramètre de l'attaque au CaC,,15599,,3,31,1,52,,3,2,0,,11/27/2016 10:28:10 AM,,
+15621,186,Activer animation attaque càc,,15597,,1,1,1,52,,3,1,0,,11/14/2016 10:36:18 AM,12/12/2016 10:00:45 AM,
+15621,187,Activer animation changement d'arme,,15597,,1,1,1,84,,3,1,0,,11/14/2016 10:41:07 AM,12/12/2016 10:00:51 AM,
+15621,149,Situation qui exploite le sacrifice de la jambe,,15598,,3,33,1,10,,3,0,0,,11/3/2016 2:31:06 PM,11/14/2016 11:07:24 AM,
+15621,135,Musique de victoire,,15589,,6,50,1,79,,3,3,0,,11/3/2016 1:41:56 PM,,
+15621,136,Animation de rechargement,,15598,,2,13,1,48,,3,0,0,,11/3/2016 2:08:41 PM,,
+15621,137,Son rechargement,,15598,,6,49,1,48,,3,0,0,,11/3/2016 2:09:28 PM,,
+15621,138,Animation du sacrifice,,15598,,2,13,1,13,,3,0,0,,11/3/2016 2:22:28 PM,,
+15621,139,Ragdoll post sacrifice,,15598,,2,13,1,13,,3,0,0,,11/3/2016 2:23:14 PM,,
+15621,143,Son Sacrifice Bras,,15598,,6,49,1,13,,3,0,0,,11/3/2016 2:27:18 PM,,
+15621,144,Situation qui exploite le sacrifice du bras,,15598,,3,33,1,13,,3,0,0,,11/3/2016 2:28:27 PM,,
+15621,145,Animation du sacrifice jambe,,15598,,2,13,1,10,,3,0,0,,11/3/2016 2:29:15 PM,,
+15621,146,Animation boitement post sacrifice jambe,,15598,,2,13,1,10,,3,0,0,,11/3/2016 2:29:34 PM,,
+15621,147,Son Sacrifice jambe,,15598,,6,49,1,10,,3,0,0,,11/3/2016 2:29:50 PM,,
+15621,258,Props métro à découpé en tâches,,15589,,2,11,1,63,,3,100,0,,12/12/2016 10:59:27 AM,12/12/2016 11:33:04 AM,
+15621,259,Props réacteur à découper en tâches,,15589,,2,11,1,95,,3,80,0,,12/12/2016 11:00:15 AM,,
