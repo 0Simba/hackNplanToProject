@@ -19,7 +19,7 @@ function addTaskOnStories (stories, task) {
 
 	task.cost = Math.round(task.cost / 7 * 100) / 100
 	task.cost += (task.cost > 1) ? ' jours' : ' jour'
-	task.cost.replace('.', ',')
+	task.cost.replace(/\./g, ',')
 
 
 	if (parentStoryIndex !== null) {
