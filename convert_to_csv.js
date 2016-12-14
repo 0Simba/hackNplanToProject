@@ -1,5 +1,5 @@
 
-var separator = ';'
+var separator = ','
 
 function exportToCsv (arrayObject, config) {
 	var csv = config.name.join(separator);
@@ -12,9 +12,14 @@ function exportToCsv (arrayObject, config) {
 
 		var elements = [];
 		for (var j = 0; j < config.keys.length; j++) {
-			var key = config.keys[j]
+			var key     = config.keys[j]
+			var element = data[key]
 
-			elements.push(data[key]);
+			if (typeof element === 'string' && element.match(',')) {
+				element = '"' + element.replace(/"/g, '\\"') + '"'
+			}
+
+			elements.push(element);
 		}
 
 		csv += elements.join(separator)
